@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Basic Android Accessibility Codelab</string>
+    <string name="hello_world">Bonjour Monde</string>
+    <string name="do_something">Presse</string>
+    <string name="toast">Ceci est un Toast</string>
+</resources>
