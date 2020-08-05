@@ -51,13 +51,13 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Apples"
-        android:contentDescription="Apples checkbox"/>
+        android:contentDescription="@string/first_checkbox"/>
 
     <CheckBox
         android:id="@+id/checkBox2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Eggs"
-        android:contentDescription="Eggs checkbox"/>
+        android:contentDescription="@string/second_checkbox"/>
 
 </LinearLayout>

@@ -76,6 +76,8 @@
     <string name="image_button_title">Image Button</string>
     <string name="checkbox_title">Checkbox</string>
     <string name="image_button_description">Share button</string>
+    <string name="first_checkbox">Apples Checkbox</string>
+    <string name="second_checkbox">Eggs Checkbox</string>
 
     <!-- Localizing -->
     <string name="hello_world">Hello World</string>
